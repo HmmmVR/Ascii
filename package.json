@@ -1,0 +1,22 @@
+{
+  "name": "ascii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmmmvr/Ascii.git"
+  },
+  "author": "Hmmm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmmmvr/Ascii/issues"
+  },
+  "homepage": "https://github.com/hmmmvr/Ascii#readme",
+  "dependencies": {
+    "gm": "^1.23.1"
+  }
+}
